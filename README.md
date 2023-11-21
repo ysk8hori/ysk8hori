@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+ナンプレアプリ作ってます。
+問題生成からプレイまで自作でやってます。
+
 https://ysk8hori.github.io/numberplace/
+
 
 <!--
 **ysk8hori/ysk8hori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
