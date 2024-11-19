@@ -3,7 +3,7 @@
 ナンプレアプリ作ってます。
 問題生成からプレイまで自作でやってます。
 
-https://ysk8hori.github.io/numberplace/
+https://numberp.net/
 
 
 <!--
